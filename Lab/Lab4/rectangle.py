@@ -8,11 +8,7 @@ def rectangle():
     velocity_publisher = rospy.Publisher('/turtle1/cmd_vel', Twist, queue_size=10)
     vel_msg = Twist()
 
-    #Receiveing the user's input
-    print("Let's move robot in a rectangular path")
-    speed = input("Input speed:")
-    height = input("Enter height:")
-    width = input("Enter width: ")
+    print("jinhiwerjenr")
     
     speed = float(speed)
     height = float(height)
