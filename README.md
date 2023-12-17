@@ -7,9 +7,10 @@
   </body>
 </html>
 
-## Midterm Syllabus :
+## Syllabus 
+### Midterm 
 Lecture : 1,2,3,4,5,6,7
-## Final Syllabus :
+### Final
 Lecture : 1,2,3,4,8,9,10,11,12,13
 
 
